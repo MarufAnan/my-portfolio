@@ -64,7 +64,7 @@ export const experience = [
   {
     id: 1,
     company: "XYZ",
-    position: "Senior Full Stack Developer",
+    position: "---",
     duration: "2023 - Present",
     description: "Lead development of web applications using React, Node.js, and cloud technologies. Mentor junior developers and collaborate with cross-functional teams.",
     technologies: ["React", "Node.js", "AWS", "TypeScript", "MongoDB"]
