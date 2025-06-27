@@ -50,12 +50,12 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "---",
-    description: "bsyd shbcwsh wwbws bcydavcbeycbey cqbacy ",
-    image: "---",
-    technologies: ["react.js","tailwind"],
-    github: "",
-    live: "",
+    title: "unbeatable TicTacToe",
+    description: "This the TicTacToe game where user playing with AI. and the main thing is that user can't defeat the AI. the result is always either it's draw or the AI will win.",
+    image: "./unbeatableTicTacToe.png",
+    technologies: ["HTML","CSS","JavaScript"],
+    github: "https://github.com/MarufAnan/TicTacToe/tree/main/Unbetable_TicTacToe",
+    live: "https://marufanan.github.io/TicTacToe/Unbetable_TicTacToe/",
     featured: false
   }
 ];
