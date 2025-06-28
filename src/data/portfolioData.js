@@ -8,7 +8,7 @@ export const personalInfo = {
   phone: "+91 8328760059",
   location: "Diamond Harbour,west bengal,INDIA",
   profileImage: "./profile.JPG",
-  resume: "/myResume.pdf", 
+  resume: "./myResume.pdf", 
   social: {
     github: "https://github.com/MarufAnan",
     linkedin: "https://www.linkedin.com/in/maruf-halder/",
